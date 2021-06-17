@@ -24,3 +24,29 @@ This application consists of five pages with full content, covered with all kind
 To conclude, the footer is the only component that was included in the entire app, but the "terms and conditions" link is under construction and redirects to the contact page by default, as well as the social media icons which only have amazing hover effects. 
 
 I hope you like this page. Thanks for stopping by here. 
+
+# SEO 
+
+Search engine optimization is a huge field to cover in a single lesson. In other words, it is a powerful tool that is constantly evolving in different aspects on the net and websites globally. It is the area that Google takes advantage (or uses) to control the content of a website. However, the content itself plays a crucial game on SEO environment. Depending on the quality of the content, which must be relevant, of a website, the browser will parse the data and then decide how to rank your page in the search engine; the result might appear at the top or may not even be displayed.  
+
+There are many SEO techniques to apply according to the needs of each project, some are familiar, and others are not. In my brief experience as a web developer, Metadata, semantic elements duly used in HTML markup, a11y (accessibility) to provide a more user-friendly inclusiveness and a better positioning of web pages to all types of users.  
+
+After testing my website through the Lighthouse tool. I found that the percentage values and information reflected in the development tools makes clear the purpose of creating strong websites that conform to some established standards or rules, such as performance, accessibility, best practices, and SEO. 
+
+Tricks: 
+
+* Choosing a good title could catch the attention of the user and reach a larger audience in a business environment.  
+
+* The headings, from h1 to h6, should be used properly. 
+
+* Keywords must match with the content of the page and try to find out what keywords are commonly used. 
+
+* Then, in the last stage, some extra rules such as internal links, readability, accessibility and ARIA labels, and images. 
+
+To categorize SEOs Techniques: 
+
+* On-page SEO are basically all I have mentioned earlier, metadata, keywords, images, texts. All the information that Google needs to position your website.  
+
+* Off-page SEO is related to backend strategies that I would love to learn more about. 
+
+To conclude, I realized that dealing with writing semantic HTML is basically more important than I expected. The other languages will flow and meet during the development process. 
