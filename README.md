@@ -27,7 +27,7 @@ I hope you like this page. Thanks for stopping by here.
 
 # SEO 
 
-Search engine optimization is a huge field to cover in a single lesson. In other words, it is a powerful tool that is constantly evolving in different aspects on the net and websites globally. It is the area that Google takes advantage (or uses) to control the content of a website. However, the content itself plays a crucial game on SEO environment. Depending on the quality of the content, which must be relevant, of a website, the browser will parse the data and then decide how to rank your page in the search engine; the result might appear at the top or may not even be displayed.  
+Search Engine Optimization is a huge field to cover in a single lesson. In other words, it is a powerful tool that is constantly evolving in different aspects on the net and websites globally. It is the area that Google takes advantage (or uses) to control the content of a website. However, the content itself plays a crucial game on SEO environment. Depending on the quality of the content, which must be relevant, of a website, the browser will parse the data and then decide how to rank your page in the search engine; the result might appear at the top or may not even be displayed.  
 
 There are many SEO techniques to apply according to the needs of each project, some are familiar, and others are not. In my brief experience as a web developer, Metadata, semantic elements duly used in HTML markup, a11y (accessibility) to provide a more user-friendly inclusiveness and a better positioning of web pages to all types of users.  
 
